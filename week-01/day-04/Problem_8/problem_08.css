@@ -1,0 +1,24 @@
+h1, p {
+  margin: 20px;
+}
+
+p {
+  font-size:18;
+  padding:20px;
+  border:2px solid black;
+  width: 320px;
+  background: url("duck.png");
+  background-repeat: no-repeat;
+}
+
+.top {
+  background-position: left;
+}
+
+.mid {
+  background-position:center;
+}
+
+.down {
+  background-position: right bottom;
+}
